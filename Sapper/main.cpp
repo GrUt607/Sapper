@@ -1,7 +1,7 @@
 #include "Sapper.h"
 
 int main() {
-    Game game;
-    game.run();
-    return 0;
+    Game game; // Создание объекта игры
+    game.run();// Запуск игры
+
 }
